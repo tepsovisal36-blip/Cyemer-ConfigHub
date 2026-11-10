@@ -270,7 +270,7 @@
       }
     },
     "Nick": {
-      "enabled": true,
+      "enabled": false,
       "keyCode": -1,
       "settings": {
         "Nickname": "Meow"
@@ -336,7 +336,7 @@
         "Hold Time (ms)": 4.3478260869565215,
         "Spam Prevent (ms)": 339.5652173913044,
         "Swap Duration (Ticks)": 1.1304347826086956,
-        "Auto Switch": true,
+        "Auto Switch": false,
         "Double Click": true,
         "Show Text": false,
         "Ignore Friends": true
@@ -445,7 +445,7 @@
       "settings": {
         "Not on Axe": true,
         "Weapon Only": true,
-        "Density Height": 3.0
+        "Density Height": 4.0
       }
     },
     "HitParticles": {
@@ -480,7 +480,7 @@
       }
     },
     "AimAssist": {
-      "enabled": true,
+      "enabled": false,
       "keyCode": 96,
       "settings": {
         "Strength": 7.739130434782608,
@@ -543,7 +543,7 @@
       }
     },
     "WTap": {
-      "enabled": true,
+      "enabled": false,
       "keyCode": -1,
       "settings": {
         "Mode": "W",
@@ -655,16 +655,16 @@
       "keyCode": -1,
       "settings": {
         "Swing Range": 2.995575221238938,
-        "Aim Range": 4.739130434782608,
+        "Aim Range": 0,
         "Auto Switch": true,
         "Swap Back": true,
         "Aim Speed": 35.0,
         "Min Fall Dist": 3.053097345132743,
         "Cooldown (ms)": 100.0,
-        "Mace Swap Delay (ms)": 1.0,
-        "Stun Slam": true,
+        "Mace Swap Delay (ms)": 1.7796,
+        "Stun Slam": false,
         "Weapon Only": true,
-        "Aim Mode": "Strict",
+        "Aim Mode": "Loose",
         "Ignore Friends": true,
         "Render Pred": false
       }
